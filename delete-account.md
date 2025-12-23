@@ -16,4 +16,4 @@ If you wish to delete your account and all associated data from the **Stadium Ey
 No personal data will be retained after the account deletion process is completed.
 
 ## Contact
-If you have any questions, please contact us at **support@yourdomain.com**.
+If you have any questions, please contact us at **deepvision2p0@yourdomain.com**.
